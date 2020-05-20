@@ -1,0 +1,11 @@
+{
+  "name": "minimum-bundler",
+  "private": true,
+  "dependencies": {
+    "@babel/generator": "^7.9.6",
+    "@babel/parser": "^7.9.6",
+    "@babel/traverse": "^7.9.6"
+  },
+  "devDependencies": {},
+  "license": "ISC"
+}
